@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Tại dzì anh cuteeeeeeeee 😚',
     mess: 'Vợ nhớ chụp nhiều ảnh với clip cho anh nhe ❤. ',
     messDesc: 'Anh nghiện vợ quá rồi 😋😊.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun :33',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
